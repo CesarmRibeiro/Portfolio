@@ -134,26 +134,7 @@ body {
     width: 50%;
     border-radius: 10px;
 }
-.rodape {
-    background-color: var(--cor-terciaria);
-    color: var(--cor-primaria);
-    padding: 24px;
-    text-align: center;
-    font-family: var(--font-secundaria);
-    font-size: 1.5rem;
-    font-weight: 400;
-    margin-top: 450px;
-}
-.rodape-sobremim {
-    background-color: var(--cor-terciaria);
-    color: var(--cor-primaria);
-    padding: 24px;
-    text-align: center;
-    font-family: var(--font-secundaria);
-    font-size: 1.5rem;
-    font-weight: 400;
-    margin-top: 455px;
-}
+
 
 @media (max-width: 1200px) {
     .cabecalho{
